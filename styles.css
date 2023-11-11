@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+.search {
+    margin-bottom: 20px;
+}
+
+.search input {
+    padding: 5px;
+    font-size: 16px;
+}
+
+.search button {
+    padding: 5px 10px;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.weather-data {
+    margin-bottom: 20px;
+}
+
+#forecastChart {
+    max-width: 600px;
+    margin: 0 auto;
+    display: block;
+}
